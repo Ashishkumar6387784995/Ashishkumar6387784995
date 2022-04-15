@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashishkumar6387784995
 - 👀 I’m interested in Web Develpment
 - 🌱 I’m currently learning course of full stack development
-- 💞️ I’m looking to collaborate on wb development Company
+- 💞️ I’m looking to collaborate on web development Company
 - 📫 My contact nomber is 8114278804
 
 <!---
